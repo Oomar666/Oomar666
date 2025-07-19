@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omarmwafy2006@gmail.com**
 
-![Smart Pot Demo]([https://i.imgur.com/abc123.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
+![]([https://i.imgur.com/abc123.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
