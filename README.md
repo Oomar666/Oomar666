@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Arduino (sensors, actuators, automation logic) - C++ for embedded systems - Python for scripting and automation - Git & GitHub for version control - Basic CAD design (SolidWorks & Fusion 360) - Fundamentals of electronics (circuits, components) - Linux & ROS basics (for future robotics projects)**
 
 - 📫 How to reach me **omarmwafy2006@gmail.com**
-<img src"https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+![Smart Pot Demo]([https://your-image-host.com/smart-pot-demo.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lsd666i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lsd666i" height="30" width="40" /></a>
