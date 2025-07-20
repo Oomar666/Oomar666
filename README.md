@@ -1,15 +1,11 @@
-1<h1 align="center">Hi 👋, I'm omar</h1>
+<h1 align="center">Hi 👋, I'm omar</h1>
 <h3 align="center">A passionate mechatronics engineering student from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oomar666" alt="oomar666" /></a> </p>
 
 - 🔭 I’m currently working on **A responsive plant care system that monitors soil moisture using sensors and automatically waters the plant when needed. Includes LCD display feedback, RGB LED indicators, and buzzer alerts. Built using Arduino Uno, soil moisture sensor, relay module, and a mini water pump.**
 
 - 🌱 I’m currently learning **Arduino (sensors, actuators, automation logic) - C++ for embedded systems - Python for scripting and automation - Git & GitHub for version control - Basic CAD design (SolidWorks & Fusion 360) - Fundamentals of electronics (circuits, components) - Linux & ROS basics (for future robotics projects)**
 
 - 📫 How to reach me **omarmwafy2006@gmail.com**
-
-![]([https://i.imgur.com/abc123.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oomar666&show_icons=true&locale=en&layout=compact" alt="oomar666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oomar666&show_icons=true&locale=en" alt="oomar666" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oomar666&" alt="oomar666" /></p>
